@@ -1,6 +1,7 @@
 # RESTFUL API de Usuários
 
 API desenvolvida em Node.js durante aula do curso de JavaScript da HCode na Udemy.
+Usado express, express-validator.
 
 ### Instalação
 ```
